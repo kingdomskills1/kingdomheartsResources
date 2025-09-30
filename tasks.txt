@@ -1,0 +1,26 @@
+# UPDATE TABLES
+## wait
+- create github for Standards
+	.update knowledge flash with new struture have Standards and Resources folders
+	.edit storage template to have knowledge flash
+	.update knowledge flash with data after edit
+
+- create account table
+   * create account table
+   * edit templete
+      . here D:\Main\3-Data\data-entry\1-Templates\2-Folders Templates\Folder Template\D\Main\3-Data
+	  . here 4-StorageDrives Template Documentation.docx -> Heading: 1-Folder structure | PC | Local Disk (D:)
+   * plans and chapters
+   * edit template table
+   * date table
+   * event table
+   *update data github after edit
+   .update knowledge flash with data after edit 
+   
+- Update and track every record in Resources table to see it in Resources folder
+
+
+## finished
+
+
+
