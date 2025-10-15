@@ -1,19 +1,33 @@
 # UPDATE TABLES
 ## wait
-- study https://www.youtube.com/watch?v=03vuqnTp53E&list=PLbJF4g421wqnW8dmPrLqzgVYsT95euPSL&index=1
-- study https://www.youtube.com/watch?v=KS3R1-ULBys&list=PLq9CbkUyVZ56qO7Xv2jI7-IVqX4Yw4M9x
-- upload work knoweldge
 - start make test case in your dynamic testing task
-- Add record in Accounts table
-- add task type column to project tasks table  
-- create backend table to record your old work when you backend in project tasks table
-- edit all records of source which have Download Metadata Template to add new column "Download Server / Mirror"
-- upload all data folder and resourse folder  and Standards folder to github
-- upload all data folder and resourse folder  and Standards folder to flash KINGSTON Knowledge and Work
-- add data path column to table table
- 
+- upload all data folder and resourse folder and Standards folder to flash KINGSTON Knowledge and Work
 
+- create game for each collection
+- upload all game folde to github
+- upload all game folder to flash KINGSTON game
+
+- create Academic collection
+- create Science collection
+- create Work knowledge collection
+- create Skills collection
+- upload all files and folders of Academic, Science, Work knowledge, Skills to github
+- upload all files and folders of Academic, Science, Work knowledge, Skills to flash KINGSTON Knowledge and Work
+
+
+- upload add all Body Metrics records of 6 documents
+- upload all sciene to Google Drive
+
+
+
+## in Progress
+- upload all data folder and resourse folder and Standards folder to github
+					  
 ## finished
+- upload all data folder and resourse folder and Standards folder to github
+   * Data
+
+   
 
 
 
