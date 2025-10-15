@@ -1,3 +1,2 @@
 - 1-Links [folder] -> 5.65 MB -> 10/15/2025 3:30 PM -> GitHub [Path: C:\GitHub\kingdomheartsResources\1-Links]
 - 2-Sources [folder] -> 2.62 MB -> 10/15/2025 3:30 PM -> GitHub [Path: C:\GitHub\kingdomheartsResources\2-Sources]
-- Links Collections [file] -> 20.0 KB -> 8/27/2025 10:11 AM -> GitHub [Path: C:\GitHub\kingdomheartsResources\Links Collections.docx]

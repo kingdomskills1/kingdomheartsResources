@@ -1,11 +1,6 @@
 # UPDATE TABLES
 ## wait
 - start make test case in your dynamic testing task
-- upload all data folder and resourse folder and Standards folder to flash KINGSTON Knowledge and Work
-
-- create game for each collection
-- upload all game folde to github
-- upload all game folder to flash KINGSTON game
 
 - create Academic collection
 - create Science collection
@@ -21,11 +16,12 @@
 
 
 ## in Progress
-- upload all data folder and resourse folder and Standards folder to github
-					  
+- create collection for each game
+- upload all game folde to github
+- upload all game folder to flash KINGSTON game
+			  
 ## finished
-- upload all data folder and resourse folder and Standards folder to github
-   * Data
+
 
    
 
