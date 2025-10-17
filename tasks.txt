@@ -1,29 +1,27 @@
 # UPDATE TABLES
 ## wait
-- start make test case in your dynamic testing task
 
-- create Academic collection
-- create Science collection
-- create Work knowledge collection
-- create Skills collection
-- upload all files and folders of Academic, Science, Work knowledge, Skills to github
-- upload all files and folders of Academic, Science, Work knowledge, Skills to flash KINGSTON Knowledge and Work
+- write test case after feedback
 
+- Section 1.3: Linguistics: Introduction to Language and Communication - ch1
 
-- upload add all Body Metrics records of 6 documents
-- upload all sciene to Google Drive
+o	Download First music playlist staff -> Neanderthals Vocalizing And Playing Early Instruments
+o	Download First manage volume staff  -> Pupa manage
+o	Download First Anime staff -> Pupa anime
+o	Download First movie staff  -> (Roundhay Garden Scene 1888)
+o	Download First series -> Chernobyl (2019)
+o	Download game staff ->  Commandos: Beyond the Call of Duty
+
+- Section 1.4: Science: Intro to Physical science
+- Section 1.4: Computing: Intro to computer science ch0
+- Section 1.4: Skills: Theoretical - Processes of Memory
+- Section 1.4: Linguistics: Introduction to Language and Communication - ch2
+
 
 
 
 ## in Progress
-- create collection for each game
-- upload all game folde to github
-- upload all game folder to flash KINGSTON game
-			  
+
+
 ## finished
-
-
-   
-
-
 
