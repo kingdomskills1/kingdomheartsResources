@@ -19,7 +19,8 @@ o	Download game staff ->  Commandos: Beyond the Call of Duty
 
 
 ## in Progress
-
+o Create general Inormation about music in information table [which is type of Forms of Audio Entertainment]
+o Create Music Template for info and track or playlist of Music
 
 ## finished
 - write test case after feedback
