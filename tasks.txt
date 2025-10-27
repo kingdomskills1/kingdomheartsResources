@@ -1,26 +1,22 @@
 # UPDATE TABLES
 ## wait
 
-o	Download First music playlist staff -> Neanderthals Vocalizing And Playing Early Instruments
+- Testing Swagger MASTER
+
 o	Download First manage volume staff  -> Pupa manage
 o	Download First Anime staff -> Pupa anime
 o	Download First movie staff  -> (Roundhay Garden Scene 1888)
 o	Download First series -> Chernobyl (2019)
 o	Download game staff ->  Commandos: Beyond the Call of Duty
 
-- Section 1.4: Science: Intro to Physical science
 - Section 1.4: Computing: Intro to computer science ch0
 - Section 1.4: Skills: Theoretical - Processes of Memory
 - Section 1.4: Linguistics: Introduction to Language and Communication - ch2
 
 
 
-
-
-
 ## in Progress
-o Create general Inormation about music in information table [which is type of Forms of Audio Entertainment]
-o Create Music Template for info and track or playlist of Music
+- Section 1.4: Science: Intro to Physical science
 
 ## finished
 - write test case after feedback
