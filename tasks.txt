@@ -1,23 +1,54 @@
-# UPDATE TABLES
-## wait
-
-- Testing Swagger MASTER
-
-o	Download First manage volume staff  -> Pupa manage
+# wait
+|Entertainment|---
+o	Download First manage volume staff  
+   - Pupa manage Vol 2
+   - Pupa manage Vol 3
+   - Pupa manage Vol 4
+   - Pupa manage Vol 5
 o	Download First Anime staff -> Pupa anime
 o	Download First movie staff  -> (Roundhay Garden Scene 1888)
 o	Download First series -> Chernobyl (2019)
 o	Download game staff ->  Commandos: Beyond the Call of Duty
 
+
+|Chapters|---
 - Section 1.4: Computing: Intro to computer science ch0
 - Section 1.4: Skills: Theoretical - Processes of Memory
 - Section 1.4: Linguistics: Introduction to Language and Communication - ch2
 
 
+|Social|---
+- Create Discord Server and add amr and fares [create it as row in task tables]
 
-## in Progress
-- Section 1.4: Science: Intro to Physical science
+|Work|---
 
-## finished
-- write test case after feedback
+
+
+
+|Work knowledge|---
+- web full stack - World Wide Web - Network Traffic AND Network Topologies
+
+|System|---
+- check sources folder has the files that is reocred in Sources Collections
+- Check UploadsOrCreatedFolders table that hass all fies of folders of your tasks
+- upload Knoweldge, Resources, standards, Music, Manga, game to github
+- upload Knoweldge, Resources, standards, Music, Manga, game to Flash
+- add to links table new column is type of link [or whatever name] is column to indcate is main site url link or links inside main link url url
+
+# in Progress
+- update to all flash drives sources table
+- update sources table in download details 
+   * add id column to donwload details to point to id of source in sources table
+   * add new Column which is in column pint to id at link table
+   * add new column is "other sources" which is other sources you used here to create current source used 
+   * add new COLUMN WHICH IS Source Medium Defines whether the original material is physical, digital
+      . Physical Source: Scanned textbook, Recorded AUDIO, VIDEO
+	  . Digital Source: Downloaded from INTERNET
+
+
+
+# finished
+
+
+
 
