@@ -21,7 +21,7 @@ o	Download game staff ->  Commandos: Beyond the Call of Duty
 - Create Discord Server and add amr and fares [create it as row in task tables]
 
 |Work|---
-
+- create test cases for Extran refinement session and create list of Questions
 
 
 
@@ -29,22 +29,21 @@ o	Download game staff ->  Commandos: Beyond the Call of Duty
 - web full stack - World Wide Web - Network Traffic AND Network Topologies
 
 |System|---
-- check sources folder has the files that is reocred in Sources Collections
-- Check UploadsOrCreatedFolders table that hass all fies of folders of your tasks
-- upload Knoweldge, Resources, standards, Music, Manga, game to github
-- upload Knoweldge, Resources, standards, Music, Manga, game to Flash
-- add to links table new column is type of link [or whatever name] is column to indcate is main site url link or links inside main link url url
+- upload Knoweldge, Resources, standards, Music, Manga, game, Data to Flash
+   * Knoweldge
+   * Music
+   * Manga
+   * game
+- create Categories file rule in data blueprint
+   *Data
 
 # in Progress
-- update to all flash drives sources table
-- update sources table in download details 
-   * add id column to donwload details to point to id of source in sources table
-   * add new Column which is in column pint to id at link table
-   * add new column is "other sources" which is other sources you used here to create current source used 
-   * add new COLUMN WHICH IS Source Medium Defines whether the original material is physical, digital
-      . Physical Source: Scanned textbook, Recorded AUDIO, VIDEO
-	  . Digital Source: Downloaded from INTERNET
-
+- Check UploadsOrCreatedFolders table that hass all fies of folders of your tasks
+- upload Resources, standards, Knoweldge, Music, Manga, game to github
+   * Knoweldge
+   * Music
+   * Manga
+   * game
 
 
 # finished
