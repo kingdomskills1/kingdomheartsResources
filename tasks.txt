@@ -1,53 +1,83 @@
 # wait
-|Entertainment|---
-o	Download First manage volume staff  
-   - Pupa manage Vol 2
-   - Pupa manage Vol 3
-   - Pupa manage Vol 4
-   - Pupa manage Vol 5
-o	Download First Anime staff -> Pupa anime
-o	Download First movie staff  -> (Roundhay Garden Scene 1888)
-o	Download First series -> Chernobyl (2019)
-o	Download game staff ->  Commandos: Beyond the Call of Duty
+	|Entertainment|---
+	o	Download First manage volume staff  
+	   - Pupa manage Vol 3
+	   - Pupa manage Vol 4
+	   - Pupa manage Vol 5
+	o	Download First Anime staff -> Pupa anime
+	o	Download First movie staff  -> (Roundhay Garden Scene 1888)
+	o	Download First series -> Chernobyl (2019)
+	o	Download game staff ->  Commandos: Beyond the Call of Duty
 
 
-|Chapters|---
-- Section 1.4: Computing: Intro to computer science ch0
-- Section 1.4: Skills: Theoretical - Processes of Memory
-- Section 1.4: Linguistics: Introduction to Language and Communication - ch2
+	|Chapters|---
+	- Section 1.4: Skills: Theoretical - Processes of Memory
+	- Section 1.4: Linguistics: Introduction to Language and Communication - ch2
 
 
-|Social|---
-- Create Discord Server and add amr and fares [create it as row in task tables]
+	|Social|---
 
-|Work|---
-- create test cases for Extran refinement session and create list of Questions
+
+	|Work|---
 
 
 
-|Work knowledge|---
-- web full stack - World Wide Web - Network Traffic AND Network Topologies
 
-|System|---
-- upload Knoweldge, Resources, standards, Music, Manga, game, Data to Flash
-   * Knoweldge
-   * Music
-   * Manga
-   * game
-- create Categories file rule in data blueprint
-   *Data
+	|Work knowledge|---
+	- web full stack - World Wide Web - Networks Devices
+	- web full stack - World Wide Web - Web Server
+	- web full stack - World Wide Web - Web Protocols
+	- web full stack - World Wide Web - Domain Name System
+	- web full stack - World Wide Web - Web API
+	- web full stack - World Wide Web - Web Service APIs
+	- web full stack - World Wide Web - Web Security
+	- web full stack - World Wide Web - Design pattern in web technologies
+	- web full stack - World Wide Web - Proxy
+	- web full stack - World Wide Web - Systems
+	- web full stack - World Wide Web - Mobile Networks
+	- web full stack - World Wide Web - Web Technologies
+	- web full stack - World Wide Web - full stack
+	- web full stack - Front-End
+	- web full stack - Back-End and 
+	- web full stack - Front-End - HTML
+
+
+
+	|System|---
+	- at Jop folders ar testing database at 2-TestDetails table and 2-TestDetails table rewrite UpdateLog to check all fields is empty is reocreded like testdata 
+	- web full stack - World Wide Web - Network Topologies
+
+	|Upload|---
+	- Programs -> GitHub: C:\GitHub\kingdomheartsResources\Programs for help\2-My Apps
+	- 
+
+
+# queue
+	- create Categories file rule in data blueprint
+	o	Download First manage volume staff  
+	   - Pupa manage Vol 2
+	- Create Discord Server and add amr and fares [create it as row in task tables]
+	- web full stack - World Wide Web - Network Traffic AND Network Topologies
+	- Section 1.4: Computing: Intro to computer science ch0
+
 
 # in Progress
-- Check UploadsOrCreatedFolders table that hass all fies of folders of your tasks
-- upload Resources, standards, Knoweldge, Music, Manga, game to github
-   * Knoweldge
-   * Music
-   * Manga
-   * game
+	- Create python program to Auto Data Collections File
+   
+   
 
 
 # finished
-
-
-
-
+	- create test cases for Extran refinement session video and create list of Questions
+	- web full stack - World Wide Web - Network Topologies
+	* Resources
+	* standards
+	* Knoweldge
+	* Skills
+	* Data   
+	* Work     
+	* Music   
+	* Manga
+	* game
+	- Create python program to delete files content then files
+	- Create python program to copy tables Structure inside access files without data
