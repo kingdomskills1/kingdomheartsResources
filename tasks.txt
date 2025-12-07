@@ -24,22 +24,6 @@
 
 
 	|Work knowledge|---
-	- web full stack - World Wide Web - Network Topologies	
-	- web full stack - World Wide Web - Networks Devices
-	- web full stack - World Wide Web - Web Server
-	- web full stack - World Wide Web - Web Protocols
-	- web full stack - World Wide Web - Domain Name System
-	- web full stack - World Wide Web - Web API
-	- web full stack - World Wide Web - Web Service APIs
-	- web full stack - World Wide Web - Web Security
-	- web full stack - World Wide Web - Design pattern in web technologies
-	- web full stack - World Wide Web - Proxy
-	- web full stack - World Wide Web - Systems
-	- web full stack - World Wide Web - Mobile Networks
-	- web full stack - World Wide Web - Web Technologies
-	- web full stack - World Wide Web - full stack
-	- web full stack - Front-End
-	- web full stack - Back-End and 
 	- web full stack - Front-End - HTML
 
 
@@ -47,6 +31,10 @@
 	|System|---
 		- rewrite Table Schema column at table 1-Tables by using programs
 		- at Jop folders ar testing database at 2-TestDetails table and 2-TestDetails table rewrite UpdateLog to check all fields is empty is reocreded like testdata 
+		- Create python program to find files with name or cotanis or patterns 
+		- Create python program to find and replace files name 
+		- Create python program to find and replace files content by text or patterns
+		- Create python program to move line text up or down on in another text line
 		- Create python program to search folder you choose and subfolder docs files about specific contetn and return all files path that have this content
 		- Create python program to compare between two text and Highlight the difference		
 		- Create Blueprint for Body Metrics - body parts (describe each part of body)
@@ -80,7 +68,15 @@
 	- Download First manage volume staff  
 	   * Pupa manage Vol 3	
 	- create two cv one for develoment and one for testing
-
+    - Uploads to github
+       * Resources
+	   * Standards
+       * knowledge
+	   * Skills
+	   * Music
+	   * Manga
+	   * Games
+	   * Miscellaneous	
 	
 
 # in Progress
@@ -93,6 +89,3 @@
 
 
 # finished
-   - Uploads to github
-      * knowledge
-	  * Music
