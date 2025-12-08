@@ -1,7 +1,5 @@
 # wait
 	|Entertainment|---
-	   * Pupa manage Vol 4
-	   * Pupa manage Vol 5
 	-	Download First Anime staff -> Pupa anime
 	-	Download First movie staff  -> (Roundhay Garden Scene 1888)
 	-	Download First series -> Chernobyl (2019)
@@ -9,8 +7,12 @@
 
 
 	|Chapters|---
-	- Section 1.4: Skills: Theoretical - Processes of Memory
-	- Section 1.4: Linguistics: Introduction to Language and Communication - ch2
+		- Section 2.1: Science: Intro to Life science
+		- Section 2.1: Computing: Intro to computer science ch1
+		- Section 2.1: Skills: Theoretical - Types of Memory
+		- Section 2.1: Linguistics: Introduction to Language and Communication - ch3
+		- Section 2.1: Subject: computer user skills - Computers - Computer Basics
+
 
 
 	|Social|---
@@ -18,24 +20,16 @@
 
 
 	|Work|---
-	- create Ecommerce site by springboot java
-	- Study crm application and Salesforce AI CRM
+		- create Ecommerce site by springboot java
+		- Study crm application and Salesforce AI CRM
 		- Job Applied to 30 company
 
 
 	|Work knowledge|---
-	- web full stack - Front-End - HTML
 
 
 
 	|System|---
-		- rewrite Table Schema column at table 1-Tables by using programs
-		- at Jop folders ar testing database at 2-TestDetails table and 2-TestDetails table rewrite UpdateLog to check all fields is empty is reocreded like testdata 
-		- Create python program to find files with name or cotanis or patterns 
-		- Create python program to find and replace files name 
-		- Create python program to find and replace files content by text or patterns
-		- Create python program to move line text up or down on in another text line
-		- Create python program to search folder you choose and subfolder docs files about specific contetn and return all files path that have this content
 		- Create python program to compare between two text and Highlight the difference		
 		- Create Blueprint for Body Metrics - body parts (describe each part of body)
 		- Create Blueprint for Body Metrics - body positions (describe each part of body)
@@ -47,7 +41,8 @@
 		- create python program to Database Management Tool
 			* don't forget to fix row range problem it tak wrong row_range number
 			* make TVD Order values according to label if have label
-		- update Folder Management Tool program to delete by name or cotent name [ant file or fodoler name has]
+		- update Folder Management Tool program to delete by name or cotent name [any file or fodoler name has]
+		- update Source table in SourceDetails column at * Content Attributes... lines replace ,  by ; and in each file in Resources folder
 		
 
 	|Upload|---
@@ -55,20 +50,40 @@
 		* Programs -> GitHub: C:\GitHub\kingdomheartsResources\Programs for help\2-My Apps
 		* Data -> GitHub: C:\GitHub\KingdomheartsData\Data\
 		* Automation -> Flash: ..Resources\Programs for help\2-My Apps
-	- Flash
-		* Data -> Flash:..Data\ *		
-		* Standards -> Flash:..Standards\*		
-	- 
+    - Flash
+        * Resources
+	    * Standards
+        * knowledge
+	    * Skills
+	    * Music
+	    * Manga
+	    * Games
+	    * Miscellaneous		
 
 
 # queue
-	- Create Discord Server and add amr and fares [create it as row in task tables]
 	- web full stack - World Wide Web - Network Traffic AND Network Topologies
+	- web full stack - World Wide Web - Network Topologies	
+	- web full stack - World Wide Web - Networks Devices
+	- web full stack - World Wide Web - Web Server
+	- web full stack - World Wide Web - Web Protocols
+	- web full stack - World Wide Web - Domain Name System
+	- web full stack - World Wide Web - Web API
+	- web full stack - World Wide Web - Web Service APIs
+	- web full stack - World Wide Web - Web Security
+	- web full stack - World Wide Web - Design pattern in web technologies
+	- web full stack - World Wide Web - Proxy
+	- web full stack - World Wide Web - Systems
+	- web full stack - World Wide Web - Mobile Networks
+	- web full stack - World Wide Web - Web Technologies
+	- web full stack - World Wide Web - full stack
+	- web full stack - Front-End
+	- web full stack - Back-End
 	- Section 1.4: Computing: Intro to computer science ch0
 	- Download First manage volume staff  
 	   * Pupa manage Vol 3	
 	- create two cv one for develoment and one for testing
-    - Uploads to github
+    - Uploads to flash
        * Resources
 	   * Standards
        * knowledge
@@ -77,14 +92,21 @@
 	   * Manga
 	   * Games
 	   * Miscellaneous	
-	
+	- Pupa manage Vol 4
+	- Section 1.4: Skills: Theoretical - Processes of Memory
+	- at Jop folders ar testing database at 2-TestDetails table and 2-TestDetails table rewrite UpdateLog to check all fields is empty is reocreded like testdata 
+	- web full stack - Front-End - HTML
+	- Pupa manage Vol 5
+	- Section 1.4: Linguistics: Introduction to Language and Communication - ch2
+	- Create python program to find files with name or cotanis or patterns 
+	- Create python program to find and replace files name 
+	- Create python program to find and replace files content by text or patterns
+	- Create python program to move line text up or down on in another text line
+	- Create python program to search folder you choose and subfolder docs files about specific contetn and return all files path that have this content
+	- web full stack - Front-End - CSS
 
 # in Progress
-	- add accounts images to Miscellaneous
-    - create new columns in Tasks table and Projects Tasks table which you record time you achevied tasks by recored mutiples values in same cell each value like this  [start time -> end time] by this way you can pause task and back to it agian which when back to task you record new value by start time and write end time when hold again or finihed task
-	-	Download First manage volume staff  
-	   * Pupa manage Vol 2
-
+	- Create Discord Server and add amr and fares [create it as row in task tables]
    
 
 
