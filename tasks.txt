@@ -1,9 +1,5 @@
 # wait
 	|Entertainment|---
-	-	Download First Anime staff -> Pupa anime
-	-	Download First movie staff  -> (Roundhay Garden Scene 1888)
-	-	Download First series -> Chernobyl (2019)
-	-	Download game staff ->  Commandos: Beyond the Call of Duty
 
 
 	|Chapters|---
@@ -30,20 +26,7 @@
 
 
 	|System|---
-		- Create python program to compare between two text and Highlight the difference		
-		- Create Blueprint for Body Metrics - body parts (describe each part of body)
-		- Create Blueprint for Body Metrics - body positions (describe each part of body)
-		- Create Blueprint for Body Metrics - body Movement (describe each part of body)
-		- create in Information at Basics Category - Explanation SubCategory - [Term, Definition, Definition, Symbol, character, word and types (root word, Prefixes and Suffixes)
-			phrase, Sentence]
-		- create in Information at Basics Category - Explanation SubCategory - [Abstraction, Specification, Generalization, Idea, concept, Mental construct]			
-		- create in Information at Thoughts Category - mental sprital - which is Abstraction of thome methink activityes process
-		- create python program to Database Management Tool
-			* don't forget to fix row range problem it tak wrong row_range number
-			* make TVD Order values according to label if have label
-		- update Folder Management Tool program to delete by name or cotent name [any file or fodoler name has]
-		- update Source table in SourceDetails column at * Content Attributes... lines replace ,  by ; and in each file in Resources folder
-		
+	
 
 	|Upload|---
 	- GitHub
@@ -62,7 +45,71 @@
 
 
 # queue
-	- web full stack - World Wide Web - Network Traffic AND Network Topologies
+	- web full stack - Front-End
+	- web full stack - Back-End
+	- Section 1.4: Computing: Intro to computer science ch0
+	- Download Pupa manage Vol 3	
+	- create two cv one for develoment and one for testing
+    - Uploads to flash
+       * Resources
+	   * Standards
+       * knowledge
+	   * Skills
+	   * Music
+	   * Manga
+	   * Games
+	   * Miscellaneous	
+	- Download Pupa manage Vol 4
+	- Section 1.4: Skills: Theoretical - Processes of Memory
+	- at Jop folders ar testing database at 2-TestDetails table and 2-TestDetails table rewrite UpdateLog to check all fields is empty is reocreded like testdata 
+	- web full stack - Front-End - HTML
+	- Download Pupa manage Vol 5
+	- Section 1.4: Linguistics: Introduction to Language and Communication - ch2
+	- Create python program to find files with name or cotanis or patterns 
+	- Create python program to find and replace files name 
+	- Create python program to find and replace files content by text or patterns
+	- Create python program to move line text up or down on in another text line
+	- Create python program to search folder you choose and subfolder docs files about specific contetn and return all files path that have this content
+	- web full stack - Front-End - CSS
+	- Download First Anime staff -> Pupa anime
+	- Create python program to compare between two text and Highlight the difference		
+	- Create Blueprint for Body Metrics - body parts (describe each part of body)
+	- Create Blueprint for Body Metrics - body positions (describe each part of body)
+	- Create Blueprint for Body Metrics - body Movement (describe each part of body)	
+	- Download First movie staff  -> (Roundhay Garden Scene 1888)
+	- create in Information at Basics Category - Explanation SubCategory - [Term, Definition, Definition, Symbol, character, word and types (root word, Prefixes and Suffixes)
+		phrase, Sentence]
+	- create in Information at Basics Category - Explanation SubCategory - [Abstraction, Specification, Generalization, Idea, concept, Mental construct]			
+	- create in Information at Thoughts Category - mental sprital - which is Abstraction of thome methink activityes process	
+	- Create GamesWorksContent Table in Games	
+	- Create SequentialArtWorksContent Table in SequentialArt	
+	- Create AnimeWorksContent Table in Anime	
+	- Create SeriesWorksContent Table in Series	
+	- Create MoviesWorksContent Table in Movies		
+	- Create Levels Table in Games
+	- Create PersonsActivityLog Table in Entities Database
+	- Create Community Table in Entities Database
+	- Create CommunityChangeLog Table in Entities Database
+	- Create CommunityActivityLog Table in Entities Database
+	- Create PracticingSkillLog  Table in Skils
+	- Create StudyingknowledgeLog Table in Knowledge	
+	- Create ReadingLiteratureLog Table in Literature	
+	- Create ReadingSequentialArtLog Table in SequentialArt
+	- Create PlayGamesLog Table in Games	
+	- Create WatchingAnimeLog Table in Anime	
+	- Create WatchingSeriesLog Table in Series		
+	- Create WatchingMoviesLog Table in Movies		
+	- Download First series -> Chernobyl (2019)
+	- create python program to Database Management Tool
+		* don't forget to fix row range problem it tak wrong row_range number
+		* make TVD Order values according to label if have label
+	- update Folder Management Tool program to delete by name or cotent name [any file or fodoler name has]
+	- update Source table in SourceDetails column at * Content Attributes... lines replace ,  by ; and in each file in Resources folder	
+	-	Download game staff ->  Commandos: Beyond the Call of Duty	
+	
+	
+
+# in Progress
 	- web full stack - World Wide Web - Network Topologies	
 	- web full stack - World Wide Web - Networks Devices
 	- web full stack - World Wide Web - Web Server
@@ -77,36 +124,6 @@
 	- web full stack - World Wide Web - Mobile Networks
 	- web full stack - World Wide Web - Web Technologies
 	- web full stack - World Wide Web - full stack
-	- web full stack - Front-End
-	- web full stack - Back-End
-	- Section 1.4: Computing: Intro to computer science ch0
-	- Download First manage volume staff  
-	   * Pupa manage Vol 3	
-	- create two cv one for develoment and one for testing
-    - Uploads to flash
-       * Resources
-	   * Standards
-       * knowledge
-	   * Skills
-	   * Music
-	   * Manga
-	   * Games
-	   * Miscellaneous	
-	- Pupa manage Vol 4
-	- Section 1.4: Skills: Theoretical - Processes of Memory
-	- at Jop folders ar testing database at 2-TestDetails table and 2-TestDetails table rewrite UpdateLog to check all fields is empty is reocreded like testdata 
-	- web full stack - Front-End - HTML
-	- Pupa manage Vol 5
-	- Section 1.4: Linguistics: Introduction to Language and Communication - ch2
-	- Create python program to find files with name or cotanis or patterns 
-	- Create python program to find and replace files name 
-	- Create python program to find and replace files content by text or patterns
-	- Create python program to move line text up or down on in another text line
-	- Create python program to search folder you choose and subfolder docs files about specific contetn and return all files path that have this content
-	- web full stack - Front-End - CSS
-
-# in Progress
-	- Create Discord Server and add amr and fares [create it as row in task tables]
    
 
 
