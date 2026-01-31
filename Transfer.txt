@@ -1,3 +1,3 @@
-- 1-Links [folder] -> 21.8 MB -> 1/4/2026 6:18 AM -> GitHub [Path: C:\GitHub\kingdomheartsResources\1-Links]
-- 2-Sources [folder] -> 525 KB -> 1/4/2026 6:18 AM -> GitHub [Path: C:\GitHub\kingdomheartsResources\2-Sources]
-- 3-Documents [folder] -> 8.70 MB -> 1/4/2026 6:18 AM -> GitHub [Path: C:\GitHub\kingdomheartsResources\3-Documents]
+- 1-Links [folder] -> 23.9 MB -> 1/31/2026 5:16 AM -> GitHub [Path: C:\GitHub\kingdomheartsResources\1-Links]
+- 2-Sources [folder] -> 560 KB -> 1/31/2026 5:16 AM -> GitHub [Path: C:\GitHub\kingdomheartsResources\2-Sources]
+- 3-Documents [folder] -> 8.70 MB -> 1/31/2026 5:16 AM -> GitHub [Path: C:\GitHub\kingdomheartsResources\3-Documents]
